@@ -1,0 +1,112 @@
+.Header {
+  background-color: #f3cfcf;
+  height: auto;
+  padding-top: 50px;
+  width: 100%;
+}
+
+.Aboutus {
+  background-color: #FAEEE7;
+  height: auto;
+  text-align: center;
+  padding-top: 10px;
+  border-style: solid;
+  border-color: #6fb1ab;
+  border-width: 10px;
+  width: auto;
+}
+
+.Gallery {
+  background-color: #b5b1b1;
+  height: auto;
+  text-align: center;
+  padding-top: 10px;
+  width: 100%
+}
+
+.Prices {
+  background-color: #f3cfcf;
+  height: auto;
+  text-align: center;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.Contactus {
+  background-color: #6fb1ab;
+  height: auto;
+  text-align: center;
+  padding-top: 10px;
+  width: 100%;
+}
+
+.logo {
+  width: 60%;
+  height: auto;
+  position: relative;
+}
+
+.picture {
+  padding-top: 20px;
+  position: relative;
+  width: 26%;
+  height: auto;
+}
+
+.poster {
+  width: 13%;
+  height: auto;
+}
+
+.map {
+  position: relative;
+  width: 100%;
+  height: auto;
+}
+.cell{
+  text-align: center;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+}
+
+p {
+  font-family: arial, sans-serif;
+  font-size: 150%;
+}
+
+h1 {
+  font-family: arial, sans-serif;
+  margin: 0;
+  font-size: 200%;
+}
+
+body {
+  margin: 0;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+hr {
+  border-width: 3px;
+  border-left: 0;
+  border-bottom: 0;
+  border-right: 0;
+  margin-top: 0;
+  margin-bottom: 10px;
+  border-style: dotted;
+  text-align: center;
+}
+
+ul {
+  text-align: center;
+  font-size: 180%;
+  font-family: arial, sans-serif;
+}
+label{
+  font-size: 120%;
+  font-family: arial, sans-serif;
+}
